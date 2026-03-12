@@ -1,4 +1,4 @@
-package creational;
+package creational.Singleton;
 
 public class SingletonExample {
     private static SingletonExample singleExample = null;

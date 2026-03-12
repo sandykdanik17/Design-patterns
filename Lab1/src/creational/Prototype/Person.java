@@ -1,10 +1,6 @@
-package creational;
+package creational.Prototype;
 
-public interface Prototype {
-    public Prototype doClone();
-}
-
-class Person implements Prototype {
+public class Person implements Prototype {
     String name;
     public Person(String name) { this.name = name;}
 

@@ -1,5 +1,17 @@
 package creational;
 
+import creational.Singleton.SingletonExample;
+import creational.Factory.Animal;
+import creational.Factory.AnimalFactory;
+import creational.AbstractFactory.AbstractFactory;
+import creational.AbstractFactory.SpeciesFactory;
+import creational.Builder.Meal;
+import creational.Builder.MealBuilder;
+import creational.Builder.ItalianMealBuilder;
+import creational.Builder.JapaneseMealBuilder;
+import creational.Builder.MealDirector;
+import creational.Prototype.Person;
+
 public class Main {
     public static void main(String[] args) {
 
